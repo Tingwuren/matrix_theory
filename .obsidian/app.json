@@ -1,4 +1,5 @@
 {
   "newLinkFormat": "relative",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "attachmentFolderPath": "./"
 }
