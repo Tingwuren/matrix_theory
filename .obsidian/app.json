@@ -1,5 +1,7 @@
 {
   "newLinkFormat": "relative",
   "showLineNumber": true,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./images",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
